@@ -1,0 +1,1345 @@
+Message: A Parser-blocking, cross-origin script, http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://www.iqiyi.com/v_19rrarylxs.html
+Line: 2153
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://www.iqiyi.com/v_19rrarylxs.html
+Line: 2153
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://s6.qhres.com/static/ab77b6ea7f3fbf79.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://s6.qhres.com/static/ab77b6ea7f3fbf79.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c
+Line: 1
+-----------------------
+Message: Uncaught SyntaxError: Unexpected token :
+Source: http://nlwl.iqiyi.com/apis/urc/getqd?authcookie=null&containsUgc=1&agent_type=1&subTypes=1%2C7%2C9&channelIds=1%2C2&callback=window.Q.__callbacks__.cb6i7pvo
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: https://www.baidu.com/
+Line: 706
+-----------------------
+Message: A Parser-blocking, cross-origin script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: https://www.baidu.com/
+Line: 706
+-----------------------
+Message: 一张网页，要经历怎样的过程，才能抵达用户面前？
+一位新人，要经历怎样的成长，才能站在技术之巅？
+探寻这里的秘密；
+体验这里的挑战；
+成为这里的主人；
+加入百度，加入网页搜索，你，可以影响世界。
+
+Source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js
+Line: 172
+-----------------------
+Message: 请将简历发送至 %c ps_recruiter@baidu.com（ 邮件标题请以“姓名-应聘XX职位-来自console”命名）
+Source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js
+Line: 172
+-----------------------
+Message: 职位介绍：http://dwz.cn/hr2013
+Source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js
+Line: 172
+-----------------------
+Message: Uncaught TypeError: warn is not a function
+Source: http://acronyms.thefreedictionary.com/ASASD
+Line: 441
+-----------------------
+Message: The <keygen> element is deprecated and will be removed in M56, around January 2017. See https://www.chromestatus.com/features/5716060992962560 for more details.
+Source: https://html5test.com/scripts/8/engine.js
+Line: 1153
+-----------------------
+Message: The 'options' directive has been replaced with 'unsafe-inline' and 'unsafe-eval' source expressions for the 'script-src' and 'style-src' directives. Please use those directives instead, as 'options' has no effect.
+Source: https://html5test.com/assets/csp.html
+Line: 0
+-----------------------
+Message: THREE.ImageUtils.loadTexture is being deprecated. Use THREE.TextureLoader() instead.
+Source: https://ajax.googleapis.com/ajax/libs/threejs/r73/three.min.js
+Line: 695
+-----------------------
+Message: THREE.SpriteMaterial: 'useScreenCoordinates' is not a property of this material.
+Source: https://ajax.googleapis.com/ajax/libs/threejs/r73/three.min.js
+Line: 381
+-----------------------
+Message: THREE.ImageUtils.loadTexture is being deprecated. Use THREE.TextureLoader() instead.
+Source: https://ajax.googleapis.com/ajax/libs/threejs/r73/three.min.js
+Line: 695
+-----------------------
+Message: THREE.WebGLRenderer
+Source: https://ajax.googleapis.com/ajax/libs/threejs/r73/three.min.js
+Line: 578
+-----------------------
+Message: Using the %s viewer.
+Source: https://lunarnewyear.withgoogle.com/static/lantern/js/libs.min.js
+Line: 433
+-----------------------
+Message: THREE.ImageUtils.loadTexture is being deprecated. Use THREE.TextureLoader() instead.
+Source: https://ajax.googleapis.com/ajax/libs/threejs/r73/three.min.js
+Line: 695
+-----------------------
+Message: THREE.ImageUtils.loadTexture is being deprecated. Use THREE.TextureLoader() instead.
+Source: https://ajax.googleapis.com/ajax/libs/threejs/r73/three.min.js
+Line: 695
+-----------------------
+Message: Mode change: %s => %s
+Source: https://lunarnewyear.withgoogle.com/static/lantern/js/libs.min.js
+Line: 448
+-----------------------
+Message: OBJLoader: 36ms
+Source: https://lunarnewyear.withgoogle.com/static/lantern/js/libs.min.js
+Line: 38
+-----------------------
+Message: [.Offscreen-For-WebGL-049C4318]RENDER WARNING: there is no texture bound to the unit 0
+Source: https://lunarnewyear.withgoogle.com/lantern/?utm_source=Google&utm_campaign=LNY2017&utm_medium=HPP&utm_content=Lantern_HK
+Line: 0
+-----------------------
+Message: [.Offscreen-For-WebGL-049C4318]RENDER WARNING: there is no texture bound to the unit 0
+Source: https://lunarnewyear.withgoogle.com/lantern/?utm_source=Google&utm_campaign=LNY2017&utm_medium=HPP&utm_content=Lantern_HK
+Line: 0
+-----------------------
+Message: [.Offscreen-For-WebGL-049C4318]RENDER WARNING: there is no texture bound to the unit 0
+Source: https://lunarnewyear.withgoogle.com/lantern/?utm_source=Google&utm_campaign=LNY2017&utm_medium=HPP&utm_content=Lantern_HK
+Line: 0
+-----------------------
+Message: THREE.WebGLRenderer: image is not power of two (615x627). Resized to 512x512
+Source: https://ajax.googleapis.com/ajax/libs/threejs/r73/three.min.js
+Line: 600
+-----------------------
+Message: TypeError: c.playVideo is not a function
+    at https://lunarnewyear.withgoogle.com/static/lantern/js/app.min.js?v=15f36ac4e093626c:42:1465
+    at m.$digest (https://ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js:144:131)
+    at m.$apply (https://ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js:147:78)
+    at https://ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js:160:130
+    at e (https://ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js:45:487)
+    at https://ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js:48:414
+Source: https://ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js
+Line: 119
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/' was loaded over HTTPS, but requested an insecure image 'http://im-x.jd.com/dsp/np?posid=1999&v=707&union_id=1000027277&pid=106&tagid=806'. This content should also be served over HTTPS.
+Source: https://v.qq.com/
+Line: 0
+-----------------------
+Message: adShowCallback slider change stop;
+Source: https://vm.gtimg.cn/tencentvideo/script/vindex/index/index_b8d56c.min.js
+Line: 1
+-----------------------
+Message: adHideCallback slider change start;
+Source: https://vm.gtimg.cn/tencentvideo/script/vindex/index/index_b8d56c.min.js
+Line: 1
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure image 'http://rcgi.video.qq.com/web_report?cmd=3514&idx=1&refer=https%3A%2F%2Fv.qq.com%2F&_=1486801920360'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=&sRef=&sPageId=&sPos=&step=2001&val=web&val1=&val2=&val3=&val4=&val5=&apid=1.4.6&pid=1.4.6&vid=v0373wueuy5&platform=3&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=&adtype=0&vurl=https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html&reporttime=&bdua=0&admtype=0&adid=4008&guid=&ispip=0&random=8531'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=&sRef=&sPageId=&sPos=&step=2001&val=web&val1=&val2=&val3=&val4=&val5=&apid=1.4.6&pid=1.4.6&vid=v0373wueuy5&platform=3&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=&adtype=0&vurl=https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html&reporttime=&bdua=0&admtype=0&adid=4008&guid=&ispip=0&random=6304'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=3&val=144&val1=1&val2=0&val3=&val4=&val5=&apid=092B80DC6C9C392B26DE79BFF8D0524096A42FB8&pid=D9EB0D40ED3F7058717E96F89B61366E&vid=v0373wueuy5&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%...rV3.2.37.400%26plugin%3D1.4.6%26speed%3D0%26vptag%3Dwww_google_com_hk%257Cnew_vs_feature%253Aitem%26pid%3DD9EB0D40ED3F7058717E96F89B61366E%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3Db66a35fcac89feb18b869918ec799bbe%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-11%2016:32:03%20548&bdua=0&admtype=0&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=3390'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=3&val=144&val1=1&val2=0&val3=&val4=&val5=&apid=092B80DC6C9C392B26DE79BFF8D0524096A42FB8&pid=D9EB0D40ED3F7058717E96F89B61366E&vid=v0373wueuy5&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%...rV3.2.37.400%26plugin%3D1.4.6%26speed%3D0%26vptag%3Dwww_google_com_hk%257Cnew_vs_feature%253Aitem%26pid%3DD9EB0D40ED3F7058717E96F89B61366E%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3Db66a35fcac89feb18b869918ec799bbe%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-11%2016:32:03%20548&bdua=0&admtype=0&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=3717'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://14.215.93.160/vmind.qqvideo.tc.qq.com/a0200wrjkxq.p202.1.mp4?vkey=7424806D59F9A72C48D9A14A2C46A95583F240DA735CA4122AF00EF2FAAA48CD5A7394BE174FF99D398D65335F46CE74C816AB2D6CAC644734B078C5D122295EE7D9A3E2969BB2829B23EA1ED30612D61D36AE40B8D499F0&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=6&val=284&val1=1&val2=4&val3=&val4=&val5=&apid=092B80DC6C9C392B26DE79BFF8D0524096A42FB8&pid=D9EB0D40ED3F7058717E96F89B61366E&vid=v0373wueuy5&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.215.93.160%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3D7424806D59F9A72C48D9A14A2C46A95583F240DA735CA4122AF00EF2FAAA48CD5A7394BE174FF99D398D65335F46CE74C816AB2D6CAC644734B078C5D122295EE7D9A3E2969BB2829B23EA1ED30612D61D36AE40B8D499F0%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:32:03%20867&bdua=0&admtype=1&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=1898'. This content should also be served over HTTPS.
+Source: https://vm.gtimg.cn/tencentvideo_v1/script/txv.core.js?max_age=604800&v=20170207
+Line: 2
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=6&val=284&val1=1&val2=4&val3=&val4=&val5=&apid=092B80DC6C9C392B26DE79BFF8D0524096A42FB8&pid=D9EB0D40ED3F7058717E96F89B61366E&vid=v0373wueuy5&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.215.93.160%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3D7424806D59F9A72C48D9A14A2C46A95583F240DA735CA4122AF00EF2FAAA48CD5A7394BE174FF99D398D65335F46CE74C816AB2D6CAC644734B078C5D122295EE7D9A3E2969BB2829B23EA1ED30612D61D36AE40B8D499F0%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:32:03%20867&bdua=0&admtype=1&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=3813'. This content should also be served over HTTPS.
+Source: https://vm.gtimg.cn/tencentvideo_v1/script/txv.core.js?max_age=604800&v=20170207
+Line: 2
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://t.l.qq.com/?t=s&actid=10250&locid=4008&oid=3119969'. This content should also be served over HTTPS.
+Source: https://vm.gtimg.cn/tencentvideo_v1/script/txv.core.js?max_age=604800&v=20170207
+Line: 2
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://cm.l.qq.com/?Bid=f4d5696444ef1184acc67176ebe9026c'. This content should also be served over HTTPS.
+Source: https://vm.gtimg.cn/tencentvideo_v1/script/txv.core.js?max_age=604800&v=20170207
+Line: 2
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://cm.l.qq.com/?Bid=dca6ea17cca2289887e097157db2998a'. This content should also be served over HTTPS.
+Source: https://vm.gtimg.cn/tencentvideo_v1/script/txv.core.js?max_age=604800&v=20170207
+Line: 2
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://sd.cn.miaozhen.com/m.gif?pid=2&tid=5311&m0=&m0a=[DUID]&m1=[ANDROIDID1]&m1a=&m2=&m4=__AAID__&m5=&m6=[MAC1]&m6a=&cid=17029901&o='. This content should also be served over HTTPS.
+Source: https://vm.gtimg.cn/tencentvideo_v1/script/txv.core.js?max_age=604800&v=20170207
+Line: 2
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://m.reachmax.cn/r.gif?tuid=xxx&ext=q&tuid=AQEB1g8ANNiR68Sdm59ulQLrO_c8af-3rybi&ver=1&getduid=1'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://p.tencentmind.com/p?oid=PUB_3119969&soid=0E9831FA0041589ECBCC778707&soidip=14.152.49.250&loc=LV_1001_LDVi_LD&lkey=4008&OpenUDID=&MAC=&IDFA=&IP=14.152.49.250&IMEI=&AndroidID='. This content should also be served over HTTPS.
+Source: https://ra.gtimg.com/sc/vqq/crystal-min.js
+Line: 278
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure image 'http://qos.report.qq.com/collect?type=1&name=https_v.qq.com&1=0&2=26&3=5&4=132&5=4038&_rt=1486801924150'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://cm.cn.miaozhen.com/addnewer.gif?r=6ygS2UzLRB&s=2'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://m.reachmax.cn/m.gif?ext=m&mid=L5Tcc0eK3RC4&s=2'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://reachmax.cm.admaster.com.cn/?tid=2024&type=1&uid=6ygS2UzLRB&redir=http://m.reachmax.cn/r.gif?ext=4&s=2'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://m.reachmax.cn/r.gif?ext=4&uid=s231089dcaeb3731c15'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure script 'http://static-alias-1.360buyimg.com/jzt/libs/behavior/v2/behavior.js'. This request has been blocked; the content must be served over HTTPS.
+Source: https://x.jd.com/exsites?spread_type=2&ad_ids=2239:5&location_info=0&adflag=1&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170104001108&expose=
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure image 'http://img1.360buyimg.com/da/jfs/t2176/38/116455295/2717/c576a8d2/55efcd1aN19509f1f.png'. This content should also be served over HTTPS.
+Source: https://x.jd.com/exsites?spread_type=2&ad_ids=2239:5&location_info=0&adflag=1&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170104001108&expose=
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://cm.l.qq.com/?dspid=110065&gettuid=1&dspuid=6ygS2UzLRB&ext=4'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://m.reachmax.cn/r.gif?tuid=xxx&ext=q&tuid=AQEB1g8ANNiR68Sdm59ulQLrO_c8af-3rybi&ver=1&ext=4'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://v.admaster.com.cn/reachmax/callback?c=6ygS2UzLRB'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html' was loaded over HTTPS, but requested an insecure plugin data 'http://t.l.qq.com/?t=s&actid=10237&oid=3119969&mid=3119969&locid=4008'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/v0373wueuy5.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=3&val=241&val1=1&val2=0&val3=&val4=&val5=&apid=1C9CD346DC9E8252C2EC1B7BA28E788AA48B3CB8&pid=EDA9C4E03DD32F165A20C23E8B3559156C7805B4&vid=x03735tz7te&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%2...D0%26v%3DTencentPlayerV3.2.37.400%26plugin%3D1.4.6%26speed%3D1408%26vptag%3Dwww_google_com_hk%257Cnew_vs_feature%253Aitem%26pid%3DEDA9C4E03DD32F165A20C23E8B3559156C7805B4%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fx03735tz7te.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-11%2016:32:52%20246&bdua=0&admtype=0&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=7455'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=3&val=241&val1=1&val2=0&val3=&val4=&val5=&apid=1C9CD346DC9E8252C2EC1B7BA28E788AA48B3CB8&pid=EDA9C4E03DD32F165A20C23E8B3559156C7805B4&vid=x03735tz7te&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%2...D0%26v%3DTencentPlayerV3.2.37.400%26plugin%3D1.4.6%26speed%3D1408%26vptag%3Dwww_google_com_hk%257Cnew_vs_feature%253Aitem%26pid%3DEDA9C4E03DD32F165A20C23E8B3559156C7805B4%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fx03735tz7te.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-11%2016:32:52%20246&bdua=0&admtype=0&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=2258'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html' was loaded over HTTPS, but requested an insecure plugin data 'http://qzs.qq.com/qzone/biz/res/v.swf?loc=LV_1001_LDVi_LD&soid=0E9831FA0033589ECBFF14011000&sdtfrom=v1000'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=6&val=285&val1=2&val2=601&val3=&val4=&val5=&apid=1C9CD346DC9E8252C2EC1B7BA28E788AA48B3CB8&pid=EDA9C4E03DD32F165A20C23E8B3559156C7805B4&vid=x03735tz7te&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2Fqzs.qq.com%2Fqzone%2Fbiz%2Fres%2Fv.swf%3Floc%3DLV_1001_LDVi_LD%26soid%3D0E9831FA0033589ECBFF14011000%26sdtfrom%3Dv1000&reporttime=2017-02-11%2016:32:52%20615&bdua=0&admtype=4&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=9587'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=6&val=285&val1=2&val2=601&val3=&val4=&val5=&apid=1C9CD346DC9E8252C2EC1B7BA28E788AA48B3CB8&pid=EDA9C4E03DD32F165A20C23E8B3559156C7805B4&vid=x03735tz7te&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2Fqzs.qq.com%2Fqzone%2Fbiz%2Fres%2Fv.swf%3Floc%3DLV_1001_LDVi_LD%26soid%3D0E9831FA0033589ECBFF14011000%26sdtfrom%3Dv1000&reporttime=2017-02-11%2016:32:52%20615&bdua=0&admtype=4&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=6034'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html' was loaded over HTTPS, but requested an insecure plugin data 'http://i.gdt.qq.com/crossdomain.xml'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/x03735tz7te.html' was loaded over HTTPS, but requested an insecure image 'http://puui.qpic.cn/vshpic/224691347/2AfxuUFxw4AJC7-KXJUumWdF_tPV83P2Gh9QcKFlXtjbiIKP_0/0/100'. This content should also be served over HTTPS.
+Source: https://v.qq.com/txyp/coralComment_yp_1.0.htm
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=3&val=438&val1=1&val2=0&val3=&val4=&val5=&apid=E45D1F8A20319E8C6F79EA24E0F8B9CF5104DEFA&pid=8A6410B140B16F435B8EE3BA8004D9CA7FAE61C0&vid=d037378b7ry&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%2...3D0%26v%3DTencentPlayerV3.2.37.400%26plugin%3D1.4.6%26speed%3D1408%26vptag%3Dwww_google_com_hk%257Cnew_vs_feature%253Aitem%26pid%3D8A6410B140B16F435B8EE3BA8004D9CA7FAE61C0%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fd037378b7ry.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-11%2016:33:16%20922&bdua=0&admtype=0&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=224'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=3&val=438&val1=1&val2=0&val3=&val4=&val5=&apid=E45D1F8A20319E8C6F79EA24E0F8B9CF5104DEFA&pid=8A6410B140B16F435B8EE3BA8004D9CA7FAE61C0&vid=d037378b7ry&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%2...D0%26v%3DTencentPlayerV3.2.37.400%26plugin%3D1.4.6%26speed%3D1408%26vptag%3Dwww_google_com_hk%257Cnew_vs_feature%253Aitem%26pid%3D8A6410B140B16F435B8EE3BA8004D9CA7FAE61C0%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fd037378b7ry.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-11%2016:33:16%20922&bdua=0&admtype=0&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=6485'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html' was loaded over HTTPS, but requested an insecure plugin data 'http://14.29.86.20/vmind.qqvideo.tc.qq.com/a0200wrjkxq.p202.1.mp4?vkey=23C02C0CF701033AFB0D26B3D83469FF7F9C53976BFB606C6EC5EB5C9436FCD9270C1BA43573F508D72B94F697C39909D5ED61ED599E56F78FEF92B0AF9B930AB5C4E77142C49DCBDE5632F8DFFE352685D59267F461C48B&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=6&val=117&val1=1&val2=4&val3=&val4=&val5=&apid=E45D1F8A20319E8C6F79EA24E0F8B9CF5104DEFA&pid=8A6410B140B16F435B8EE3BA8004D9CA7FAE61C0&vid=d037378b7ry&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.86.20%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3D23C02C0CF701033AFB0D26B3D83469FF7F9C53976BFB606C6EC5EB5C9436FCD9270C1BA43573F508D72B94F697C39909D5ED61ED599E56F78FEF92B0AF9B930AB5C4E77142C49DCBDE5632F8DFFE352685D59267F461C48B%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:33:17%20052&bdua=0&admtype=1&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=4578'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=6&val=117&val1=1&val2=4&val3=&val4=&val5=&apid=E45D1F8A20319E8C6F79EA24E0F8B9CF5104DEFA&pid=8A6410B140B16F435B8EE3BA8004D9CA7FAE61C0&vid=d037378b7ry&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.86.20%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3D23C02C0CF701033AFB0D26B3D83469FF7F9C53976BFB606C6EC5EB5C9436FCD9270C1BA43573F508D72B94F697C39909D5ED61ED599E56F78FEF92B0AF9B930AB5C4E77142C49DCBDE5632F8DFFE352685D59267F461C48B%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:33:17%20052&bdua=0&admtype=1&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=8635'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html' was loaded over HTTPS, but requested an insecure plugin data 'http://t.l.qq.com/?t=s&actid=10250&locid=4008&oid=3119969'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html' was loaded over HTTPS, but requested an insecure plugin data 'http://sd.cn.miaozhen.com/m.gif?pid=2&tid=5311&m0=&m0a=[DUID]&m1=[ANDROIDID1]&m1a=&m2=&m4=__AAID__&m5=&m6=[MAC1]&m6a=&cid=17029901&o='. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html' was loaded over HTTPS, but requested an insecure plugin data 'http://p.tencentmind.com/p?oid=PUB_3119969&soid=0E9831FA002D589ECC17532817&soidip=14.152.49.250&loc=LV_1001_LDVi_LD&lkey=4008&OpenUDID=&MAC=&IDFA=&IP=14.152.49.250&IMEI=&AndroidID='. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html' was loaded over HTTPS, but requested an insecure plugin data 'http://cm.l.qq.com/?Bid=f4d5696444ef1184acc67176ebe9026c'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html' was loaded over HTTPS, but requested an insecure plugin data 'http://cm.l.qq.com/?Bid=dca6ea17cca2289887e097157db2998a'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/d037378b7ry.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=3&val=348&val1=1&val2=0&val3=&val4=&val5=&apid=884C2D0D842A032B1D73EAD0E93955D402DF5904&pid=D9B5CF20B1B8133FA50C3930BAF3908F0FE06CD7&vid=b037390q2b2&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%2...D0%26v%3DTencentPlayerV3.2.37.400%26plugin%3D1.4.6%26speed%3D2125%26vptag%3Dwww_google_com_hk%257Cnew_vs_feature%253Aitem%26pid%3DD9B5CF20B1B8133FA50C3930BAF3908F0FE06CD7%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fd037378b7ry.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-11%2016:33:19%20887&bdua=0&admtype=0&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=6393'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=3&val=348&val1=1&val2=0&val3=&val4=&val5=&apid=884C2D0D842A032B1D73EAD0E93955D402DF5904&pid=D9B5CF20B1B8133FA50C3930BAF3908F0FE06CD7&vid=b037390q2b2&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%2...D0%26v%3DTencentPlayerV3.2.37.400%26plugin%3D1.4.6%26speed%3D2125%26vptag%3Dwww_google_com_hk%257Cnew_vs_feature%253Aitem%26pid%3DD9B5CF20B1B8133FA50C3930BAF3908F0FE06CD7%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fd037378b7ry.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-11%2016:33:19%20887&bdua=0&admtype=0&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=9463'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure plugin data 'http://113.106.207.144/vmind.qqvideo.tc.qq.com/a0200wrjkxq.p202.1.mp4?vkey=9EF3A9AA44A53A7C76170770FFFE966486B8B23CD6031182F772B9E258DA0105699C922043553824F01A8308D493CF2DB2FB8CCA965F88E945DF72A22C9EF498CA5F92FB2DF13ECDCC6C8C045B18F0FA7E2CF607B4D00A61&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure image 'http://puui.qpic.cn/vshpic/570898293/ANjWTF8mG7TBDmFnFnj6VDyzOg0bwL-u_ZoSVAfRJlfcCe6l_0/0/100'. This content should also be served over HTTPS.
+Source: https://v.qq.com/txyp/coralComment_yp_1.0.htm?t=Sat%20Feb%2011%202017%2016:33:19%20GMT+0800%20(%E4%B8%AD%E5%9B%BD%E6%A0%87%E5%87%86%E6%97%B6%E9%97%B4)
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=6&val=316&val1=1&val2=4&val3=&val4=&val5=&apid=884C2D0D842A032B1D73EAD0E93955D402DF5904&pid=D9B5CF20B1B8133FA50C3930BAF3908F0FE06CD7&vid=b037390q2b2&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F113.106.207.144%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3D9EF3A9AA44A53A7C76170770FFFE966486B8B23CD6031182F772B9E258DA0105699C922043553824F01A8308D493CF2DB2FB8CCA965F88E945DF72A22C9EF498CA5F92FB2DF13ECDCC6C8C045B18F0FA7E2CF607B4D00A61%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:33:20%20219&bdua=0&admtype=1&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=3107'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fv0373wueuy5.html&sRef=&sPageId=&sPos=&step=6&val=316&val1=1&val2=4&val3=&val4=&val5=&apid=884C2D0D842A032B1D73EAD0E93955D402DF5904&pid=D9B5CF20B1B8133FA50C3930BAF3908F0FE06CD7&vid=b037390q2b2&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F113.106.207.144%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3D9EF3A9AA44A53A7C76170770FFFE966486B8B23CD6031182F772B9E258DA0105699C922043553824F01A8308D493CF2DB2FB8CCA965F88E945DF72A22C9EF498CA5F92FB2DF13ECDCC6C8C045B18F0FA7E2CF607B4D00A61%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:33:20%20219&bdua=0&admtype=1&adid=4008&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=644'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure plugin data 'http://t.l.qq.com/?t=s&actid=10250&locid=4008&oid=3119969'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure plugin data 'http://sd.cn.miaozhen.com/m.gif?pid=2&tid=5311&m0=&m0a=[DUID]&m1=[ANDROIDID1]&m1a=&m2=&m4=__AAID__&m5=&m6=[MAC1]&m6a=&cid=17029901&o='. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure plugin data 'http://p.tencentmind.com/p?oid=PUB_3119969&soid=0E9831FA003D589ECC1A580302&soidip=14.152.49.250&loc=LV_1001_LDVi_LD&lkey=4008&OpenUDID=&MAC=&IDFA=&IP=14.152.49.250&IMEI=&AndroidID='. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure plugin data 'http://cm.l.qq.com/?Bid=f4d5696444ef1184acc67176ebe9026c'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure plugin data 'http://cm.l.qq.com/?Bid=dca6ea17cca2289887e097157db2998a'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/hpdizs0rujaw3bx/b037390q2b2.html' was loaded over HTTPS, but requested an insecure image 'http://zyjc.sec.qq.com/cr?id=100&d=beframed=v1.4|beframed::url|childUrl::https%3A%2F%2Fv.qq.com%2Ftxyp%2FcoralComment_yp_1.0.htm%3Ft%3DSat%2520Feb%252011%25202017%252016%3A33%3A19%2520GMT%2B0800%2520(%25E4%25B8%25AD%25E5%259B%25BD%25E6%25A0%2587%25E5%2587%2586%25E6%2597%25B6%25E9%2597%25B4)|parentUrl::https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhpdizs0rujaw3bx%2Fb037390q2b2.html'. This content should also be served over HTTPS.
+Source: https://v.qq.com/txyp/coralComment_yp_1.0.htm?t=Sat%20Feb%2011%202017%2016:33:19%20GMT+0800%20(%E4%B8%AD%E5%9B%BD%E6%A0%87%E5%87%86%E6%97%B6%E9%97%B4)
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/' was loaded over HTTPS, but requested an insecure image 'http://im-x.jd.com/dsp/np?posid=1999&v=707&union_id=1000027277&pid=106&tagid=806'. This content should also be served over HTTPS.
+Source: https://v.qq.com/
+Line: 0
+-----------------------
+Message: adShowCallback slider change stop;
+Source: https://vm.gtimg.cn/tencentvideo/script/vindex/index/index_b8d56c.min.js
+Line: 1
+-----------------------
+Message: adHideCallback slider change start;
+Source: https://vm.gtimg.cn/tencentvideo/script/vindex/index/index_b8d56c.min.js
+Line: 1
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure image 'http://rcgi.video.qq.com/web_report?cmd=3514&idx=1&refer=https%3A%2F%2Fv.qq.com%2F&_=1486802021577'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=&sRef=&sPageId=&sPos=&step=2001&val=web&val1=&val2=&val3=&val4=&val5=&apid=1.4.6&pid=1.4.6&vid=s0022ryp4k3&platform=3&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=&adtype=0&vurl=https://v.qq.com/x/cover/irh359djhd7xk5r.html&reporttime=&bdua=0&admtype=0&adid=4003&guid=&ispip=0&random=6932'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=&sRef=&sPageId=&sPos=&step=2001&val=web&val1=&val2=&val3=&val4=&val5=&apid=1.4.6&pid=1.4.6&vid=s0022ryp4k3&platform=3&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=&adtype=0&vurl=https://v.qq.com/x/cover/irh359djhd7xk5r.html&reporttime=&bdua=0&admtype=0&adid=4003&guid=&ispip=0&random=7204'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&sRef=&sPageId=&sPos=&step=3&val=151&val1=1&val2=0&val3=&val4=&val5=&apid=A05BF5DCC3E5C1E3CBE7CDD3D72338CEC59E5447&pid=0D6307C55A4B34F496DD48DD7D2B95CB&vid=s0022ryp4k3&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54....3DTencentPlayerV3.2.37.400%26plugin%3D1.4.6%26speed%3D0%26vptag%3Dwww_google_com_hk%257Cnew_vs_variety%253Aitem%26pid%3D0D6307C55A4B34F496DD48DD7D2B95CB%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3Df6267332e042317c7082e0f081f5e8ca%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-11%2016:33:45%20626&bdua=0&admtype=0&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=4139'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&sRef=&sPageId=&sPos=&step=3&val=151&val1=1&val2=0&val3=&val4=&val5=&apid=A05BF5DCC3E5C1E3CBE7CDD3D72338CEC59E5447&pid=0D6307C55A4B34F496DD48DD7D2B95CB&vid=s0022ryp4k3&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54....3DTencentPlayerV3.2.37.400%26plugin%3D1.4.6%26speed%3D0%26vptag%3Dwww_google_com_hk%257Cnew_vs_variety%253Aitem%26pid%3D0D6307C55A4B34F496DD48DD7D2B95CB%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3Df6267332e042317c7082e0f081f5e8ca%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-11%2016:33:45%20626&bdua=0&admtype=0&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=8927'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://14.215.93.160/vmind.qqvideo.tc.qq.com/a0200wrjkxq.p202.1.mp4?vkey=07012E85FA23C974621F9158808B4A43DED15CD1A0EFCC2B8499ECC2637862E3F30317E424D75219C3020EBE850BD09B1C1EBFA3792E1A854EA524855B1BA9C5BD2380CF6EEFC07EF27CB9F413B819AC67E77FA55261B848&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&sRef=&sPageId=&sPos=&step=6&val=392&val1=1&val2=4&val3=&val4=&val5=&apid=A05BF5DCC3E5C1E3CBE7CDD3D72338CEC59E5447&pid=0D6307C55A4B34F496DD48DD7D2B95CB&vid=s0022ryp4k3&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.215.93.160%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3D07012E85FA23C974621F9158808B4A43DED15CD1A0EFCC2B8499ECC2637862E3F30317E424D75219C3020EBE850BD09B1C1EBFA3792E1A854EA524855B1BA9C5BD2380CF6EEFC07EF27CB9F413B819AC67E77FA55261B848%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:33:46%20082&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=1&random=7958'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&sRef=&sPageId=&sPos=&step=6&val=392&val1=1&val2=4&val3=&val4=&val5=&apid=A05BF5DCC3E5C1E3CBE7CDD3D72338CEC59E5447&pid=0D6307C55A4B34F496DD48DD7D2B95CB&vid=s0022ryp4k3&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.215.93.160%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3D07012E85FA23C974621F9158808B4A43DED15CD1A0EFCC2B8499ECC2637862E3F30317E424D75219C3020EBE850BD09B1C1EBFA3792E1A854EA524855B1BA9C5BD2380CF6EEFC07EF27CB9F413B819AC67E77FA55261B848%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:33:46%20082&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=1&random=3457'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://sd.cn.miaozhen.com/m.gif?pid=2&tid=5311&m0=&m0a=[DUID]&m1=[ANDROIDID1]&m1a=&m2=&m4=__AAID__&m5=&m6=[MAC1]&m6a=&cid=17029901&o='. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://p.tencentmind.com/p?oid=PUB_3119969&soid=0E9831FA0034589ECC32828076&soidip=14.152.49.250&loc=LV_6067_LDVi_LD&lkey=6067&OpenUDID=&MAC=&IDFA=&IP=14.152.49.250&IMEI=&AndroidID='. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://14.29.117.16/vmind.qqvideo.tc.qq.com/i020016ovtp.p202.1.mp4?vkey=BF29F58B42569D8F6E455C2107BD99A3C4C04493BB8AC029DDF16B438CC737675E8C0ABD04133490FC420A0DEC423F69F9DD43A35341F0CA35784F7D5352455742378BDBD2C8D91CF68B73DE002F738A5B119C2E81D0B8EC&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure script 'http://static-alias-1.360buyimg.com/jzt/libs/behavior/v2/behavior.js'. This request has been blocked; the content must be served over HTTPS.
+Source: https://x.jd.com/exsites?spread_type=2&ad_ids=2239:5&location_info=0&adflag=1&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170104001108&expose=
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure image 'http://img1.360buyimg.com/da/jfs/t2176/38/116455295/2717/c576a8d2/55efcd1aN19509f1f.png'. This content should also be served over HTTPS.
+Source: https://x.jd.com/exsites?spread_type=2&ad_ids=2239:5&location_info=0&adflag=1&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170104001108&expose=
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://113.106.207.152/vmind.qqvideo.tc.qq.com/z0200b3gpbe.p202.1.mp4?vkey=7BEEA27A1BC9DE48624C0F20A3C3A2BFDED2F05F4F5C46642F3221CB5D8249B64BFD3F0F8EE40F061CFB58C3912F96B5C54A29DFC5AD1E0CF122C248D8ABF0957D3D89B95BD688DECAAA2B49B29F540448392AA754B4FC1A&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://14.215.93.150/vmind.qqvideo.tc.qq.com/t0200gnq9pk.p202.1.mp4?vkey=9A5159B9FD7347A47D6776F0BF5FD10067B0B054F86B7A937276FCCE6F8808B2B68B76C3145F4810B5ECE6C93BBFA16986A7CCB850492ABE411A743206E5E3A4C5E064D8444EC9D468FC0F5F4058773CE0C87A437790DD4B&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&sRef=&sPageId=&sPos=&step=7&val=15000&val1=4&val2=&val3=&val4=&val5=&apid=A05BF5DCC3E5C1E3CBE7CDD3D72338CEC59E5447&pid=0D6307C55A4B34F496DD48DD7D2B95CB&vid=s0022ryp4k3&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=15000&bt=75000&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.215.93.160%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3D07012E85FA23C974621F9158808B4A43DED15CD1A0EFCC2B8499ECC2637862E3F30317E424D75219C3020EBE850BD09B1C1EBFA3792E1A854EA524855B1BA9C5BD2380CF6EEFC07EF27CB9F413B819AC67E77FA55261B848%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:34:01%20093&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=6714'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&sRef=&sPageId=&sPos=&step=7&val=15000&val1=4&val2=&val3=&val4=&val5=&apid=A05BF5DCC3E5C1E3CBE7CDD3D72338CEC59E5447&pid=0D6307C55A4B34F496DD48DD7D2B95CB&vid=s0022ryp4k3&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=15000&bt=75000&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.215.93.160%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3D07012E85FA23C974621F9158808B4A43DED15CD1A0EFCC2B8499ECC2637862E3F30317E424D75219C3020EBE850BD09B1C1EBFA3792E1A854EA524855B1BA9C5BD2380CF6EEFC07EF27CB9F413B819AC67E77FA55261B848%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:34:01%20093&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=610'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&sRef=&sPageId=&sPos=&step=6&val=114&val1=1&val2=4&val3=&val4=&val5=&apid=A05BF5DCC3E5C1E3CBE7CDD3D72338CEC59E5447&pid=0D6307C55A4B34F496DD48DD7D2B95CB&vid=s0022ryp4k3&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.117.16%2Fvmind.qqvideo.tc.qq.com%2Fi020016ovtp.p202.1.mp4%3Fvkey%3DBF29F58B42569D8F6E455C2107BD99A3C4C04493BB8AC029DDF16B438CC737675E8C0ABD04133490FC420A0DEC423F69F9DD43A35341F0CA35784F7D5352455742378BDBD2C8D91CF68B73DE002F738A5B119C2E81D0B8EC%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:34:01%20104&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=1&random=1535'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&sRef=&sPageId=&sPos=&step=6&val=114&val1=1&val2=4&val3=&val4=&val5=&apid=A05BF5DCC3E5C1E3CBE7CDD3D72338CEC59E5447&pid=0D6307C55A4B34F496DD48DD7D2B95CB&vid=s0022ryp4k3&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.117.16%2Fvmind.qqvideo.tc.qq.com%2Fi020016ovtp.p202.1.mp4%3Fvkey%3DBF29F58B42569D8F6E455C2107BD99A3C4C04493BB8AC029DDF16B438CC737675E8C0ABD04133490FC420A0DEC423F69F9DD43A35341F0CA35784F7D5352455742378BDBD2C8D91CF68B73DE002F738A5B119C2E81D0B8EC%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:34:01%20104&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=1&random=1100'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://sd.cn.miaozhen.com/m.gif?pid=2&tid=5311&m0=&m0a=[DUID]&m1=[ANDROIDID1]&m1a=&m2=&m4=__AAID__&m5=&m6=[MAC1]&m6a=&cid=17029905&o='. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://p.tencentmind.com/p?oid=PUB_3145547&soid=0E9831FA0034589ECC32828076&soidip=14.152.49.250&loc=LV_6067_LDVi_LD&lkey=6067&OpenUDID=&MAC=&IDFA=&IP=14.152.49.250&IMEI=&AndroidID='. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure image 'http://rcgi.video.qq.com/web_report?cmd=3514&idx=1&refer=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&_=1486802095420'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=&sRef=&sPageId=&sPos=&step=2001&val=web&val1=&val2=&val3=&val4=&val5=&apid=1.4.6&pid=1.4.6&vid=u0022o9fx5t&platform=3&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=&adtype=0&vurl=https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0&reporttime=&bdua=0&admtype=0&adid=4003&guid=&ispip=0&random=3025'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=&sRef=&sPageId=&sPos=&step=2001&val=web&val1=&val2=&val3=&val4=&val5=&apid=1.4.6&pid=1.4.6&vid=u0022o9fx5t&platform=3&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=&adtype=0&vurl=https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0&reporttime=&bdua=0&admtype=0&adid=4003&guid=&ispip=0&random=25'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%3Fstart%3D0&sRef=&sPageId=&sPos=&step=3&val=162&val1=1&val2=0&val3=&val4=&val5=&apid=3F5ACEEAC171FE452232713A6A52D759E0B6AC3D&pid=B0A4B8F56FC0CEE675DA1EEDE56157DB&vid=u0022o9fx5t&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20...plugin%3D1.4.6%26speed%3D0%26vptag%3Dwww_google_com_hk%257Ctabs-columns%253Aimg%26pid%3DB0A4B8F56FC0CEE675DA1EEDE56157DB%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D69447f657529836ae82babcb4a9088a7%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html%26st%3D0&reporttime=2017-02-11%2016:34:57%20799&bdua=0&admtype=0&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=7748'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%3Fstart%3D0&sRef=&sPageId=&sPos=&step=3&val=162&val1=1&val2=0&val3=&val4=&val5=&apid=3F5ACEEAC171FE452232713A6A52D759E0B6AC3D&pid=B0A4B8F56FC0CEE675DA1EEDE56157DB&vid=u0022o9fx5t&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20...plugin%3D1.4.6%26speed%3D0%26vptag%3Dwww_google_com_hk%257Ctabs-columns%253Aimg%26pid%3DB0A4B8F56FC0CEE675DA1EEDE56157DB%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D69447f657529836ae82babcb4a9088a7%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html%26st%3D0&reporttime=2017-02-11%2016:34:57%20799&bdua=0&admtype=0&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=9832'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://14.29.86.20/vmind.qqvideo.tc.qq.com/a0200wrjkxq.p202.1.mp4?vkey=EB96DD48D38968F30EC55C76F20C647DDBE3267DE1B0569B65C34A83953BE39941CDD32AD98280074DF82985F812DC41683B740223E03F56D0300BE3BF94613BCAEF2BA2B9C5BB538B950460946222E2D5296C52F6EC8E71&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%3Fstart%3D0&sRef=&sPageId=&sPos=&step=6&val=286&val1=1&val2=4&val3=&val4=&val5=&apid=3F5ACEEAC171FE452232713A6A52D759E0B6AC3D&pid=B0A4B8F56FC0CEE675DA1EEDE56157DB&vid=u0022o9fx5t&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.86.20%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3DEB96DD48D38968F30EC55C76F20C647DDBE3267DE1B0569B65C34A83953BE39941CDD32AD98280074DF82985F812DC41683B740223E03F56D0300BE3BF94613BCAEF2BA2B9C5BB538B950460946222E2D5296C52F6EC8E71%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:34:58%20125&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=1&random=2269'. This content should also be served over HTTPS.
+Source: https://ra.gtimg.com/sc/vqq/crystal-min.js
+Line: 278
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%3Fstart%3D0&sRef=&sPageId=&sPos=&step=6&val=286&val1=1&val2=4&val3=&val4=&val5=&apid=3F5ACEEAC171FE452232713A6A52D759E0B6AC3D&pid=B0A4B8F56FC0CEE675DA1EEDE56157DB&vid=u0022o9fx5t&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.86.20%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3DEB96DD48D38968F30EC55C76F20C647DDBE3267DE1B0569B65C34A83953BE39941CDD32AD98280074DF82985F812DC41683B740223E03F56D0300BE3BF94613BCAEF2BA2B9C5BB538B950460946222E2D5296C52F6EC8E71%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:34:58%20125&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=1&random=5376'. This content should also be served over HTTPS.
+Source: https://ra.gtimg.com/sc/vqq/crystal-min.js
+Line: 278
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://sd.cn.miaozhen.com/m.gif?pid=2&tid=5311&m0=&m0a=[DUID]&m1=[ANDROIDID1]&m1a=&m2=&m4=__AAID__&m5=&m6=[MAC1]&m6a=&cid=17029901&o='. This content should also be served over HTTPS.
+Source: https://ra.gtimg.com/sc/vqq/crystal-min.js
+Line: 278
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://p.tencentmind.com/p?oid=PUB_3119969&soid=0E9831FA003E589ECC7A733641&soidip=14.152.49.250&loc=LV_6067_LDVi_LD&lkey=6067&OpenUDID=&MAC=&IDFA=&IP=14.152.49.250&IMEI=&AndroidID='. This content should also be served over HTTPS.
+Source: https://ra.gtimg.com/sc/vqq/crystal-min.js
+Line: 278
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://14.29.117.16/vmind.qqvideo.tc.qq.com/i020016ovtp.p202.1.mp4?vkey=9991081615F2491259CD673E017BB8FA417729A800F951882AF180B5AFBC9F251B1D869961324432397A20C037ACEB94E52554A66C8EF599F2A2C67076885852ACBA306E9F8802D189D201A4D850CE5C5D5AA2DD48F17FE8&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://vm.gtimg.cn/c/=/tencentvideo/txp/js/plugins/htmlframe.e05310.js,flashplayer.405a93.js,barrage.51039b.js?max_age=604800&_ts=20170119
+Line: 11
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure script 'http://static-alias-1.360buyimg.com/jzt/libs/behavior/v2/behavior.js'. This request has been blocked; the content must be served over HTTPS.
+Source: https://x.jd.com/exsites?spread_type=2&ad_ids=2239:5&location_info=0&adflag=1&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170104001108&expose=
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure image 'http://img1.360buyimg.com/da/jfs/t2176/38/116455295/2717/c576a8d2/55efcd1aN19509f1f.png'. This content should also be served over HTTPS.
+Source: https://x.jd.com/exsites?spread_type=2&ad_ids=2239:5&location_info=0&adflag=1&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170104001108&expose=
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://14.29.86.12/vmind.qqvideo.tc.qq.com/z0200b3gpbe.p202.1.mp4?vkey=B85E5872115707CE2F9C856DEFF8F1B69B00F4ECD011250B21670B908EC885F1D97C736A33E043297CBA1A6EB9DE4FA23AEA721CF80282B2993E3FD62233BECD5D2B7A0E88D1133117077A7D7D60C5930E3A190EBED52F60&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://14.29.86.15/vmind.qqvideo.tc.qq.com/t0200gnq9pk.p202.1.mp4?vkey=AE144F3D1E1D4C7C7F0ED4C8269CCF6106BAF313897FA8AF2510EBA9F82CBB3D4B8A94DD1B49090C12E58599EF87E245085FC823844ED73E2123A54780C6655076D0E40933A36263B1C4361A2C381846D5E6B9DC5ABD7524&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://14.215.93.152/vmind.qqvideo.tc.qq.com/p0200zmlell.p202.1.mp4?vkey=DDF4F1B6A91B8A7B976D46D741AD46B557EE526F1772CB264408CC78C754AA0E2E4DF816E253EE0F14A0EF0996B5386C63A1C9EFD41041238E36F2CB201B7A00B91A5434D5945A4A50F07395FB3209C6BB4A66860CDCADBA&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%3Fstart%3D0&sRef=&sPageId=&sPos=&step=7&val=15000&val1=4&val2=&val3=&val4=&val5=&apid=3F5ACEEAC171FE452232713A6A52D759E0B6AC3D&pid=B0A4B8F56FC0CEE675DA1EEDE56157DB&vid=u0022o9fx5t&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=15000&bt=80000&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.86.20%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3DEB96DD48D38968F30EC55C76F20C647DDBE3267DE1B0569B65C34A83953BE39941CDD32AD98280074DF82985F812DC41683B740223E03F56D0300BE3BF94613BCAEF2BA2B9C5BB538B950460946222E2D5296C52F6EC8E71%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:35:13%20218&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=3620'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%3Fstart%3D0&sRef=&sPageId=&sPos=&step=7&val=15000&val1=4&val2=&val3=&val4=&val5=&apid=3F5ACEEAC171FE452232713A6A52D759E0B6AC3D&pid=B0A4B8F56FC0CEE675DA1EEDE56157DB&vid=u0022o9fx5t&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=15000&bt=80000&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.86.20%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3DEB96DD48D38968F30EC55C76F20C647DDBE3267DE1B0569B65C34A83953BE39941CDD32AD98280074DF82985F812DC41683B740223E03F56D0300BE3BF94613BCAEF2BA2B9C5BB538B950460946222E2D5296C52F6EC8E71%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:35:13%20218&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=9490'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%3Fstart%3D0&sRef=&sPageId=&sPos=&step=6&val=283&val1=1&val2=4&val3=&val4=&val5=&apid=3F5ACEEAC171FE452232713A6A52D759E0B6AC3D&pid=B0A4B8F56FC0CEE675DA1EEDE56157DB&vid=u0022o9fx5t&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.117.16%2Fvmind.qqvideo.tc.qq.com%2Fi020016ovtp.p202.1.mp4%3Fvkey%3D9991081615F2491259CD673E017BB8FA417729A800F951882AF180B5AFBC9F251B1D869961324432397A20C037ACEB94E52554A66C8EF599F2A2C67076885852ACBA306E9F8802D189D201A4D850CE5C5D5AA2DD48F17FE8%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:35:13%20235&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=1&random=8897'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%3Fstart%3D0&sRef=&sPageId=&sPos=&step=6&val=283&val1=1&val2=4&val3=&val4=&val5=&apid=3F5ACEEAC171FE452232713A6A52D759E0B6AC3D&pid=B0A4B8F56FC0CEE675DA1EEDE56157DB&vid=u0022o9fx5t&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.117.16%2Fvmind.qqvideo.tc.qq.com%2Fi020016ovtp.p202.1.mp4%3Fvkey%3D9991081615F2491259CD673E017BB8FA417729A800F951882AF180B5AFBC9F251B1D869961324432397A20C037ACEB94E52554A66C8EF599F2A2C67076885852ACBA306E9F8802D189D201A4D850CE5C5D5AA2DD48F17FE8%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:35:13%20235&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=1&random=47'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://sd.cn.miaozhen.com/m.gif?pid=2&tid=5311&m0=&m0a=[DUID]&m1=[ANDROIDID1]&m1a=&m2=&m4=__AAID__&m5=&m6=[MAC1]&m6a=&cid=17029905&o='. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://p.tencentmind.com/p?oid=PUB_3145547&soid=0E9831FA003E589ECC7A733641&soidip=14.152.49.250&loc=LV_6067_LDVi_LD&lkey=6067&OpenUDID=&MAC=&IDFA=&IP=14.152.49.250&IMEI=&AndroidID='. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure image 'http://rcgi.video.qq.com/web_report?cmd=3514&idx=1&refer=https%3A%2F%2Fv.qq.com%2F&_=1486802165994'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=&sRef=&sPageId=&sPos=&step=2001&val=web&val1=&val2=&val3=&val4=&val5=&apid=1.4.6&pid=1.4.6&vid=s0022ryp4k3&platform=3&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=&adtype=0&vurl=https://v.qq.com/x/cover/irh359djhd7xk5r.html&reporttime=&bdua=0&admtype=0&adid=4003&guid=&ispip=0&random=4605'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=&sRef=&sPageId=&sPos=&step=2001&val=web&val1=&val2=&val3=&val4=&val5=&apid=1.4.6&pid=1.4.6&vid=s0022ryp4k3&platform=3&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=&adtype=0&vurl=https://v.qq.com/x/cover/irh359djhd7xk5r.html&reporttime=&bdua=0&admtype=0&adid=4003&guid=&ispip=0&random=4750'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&sRef=&sPageId=&sPos=&step=3&val=174&val1=1&val2=0&val3=&val4=&val5=&apid=FC998EF7366750B414B81AC7065DBE211B8B3A74&pid=37B465BC9D870ACF5B84FF64DE1433F6&vid=s0022ryp4k3&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54....6v%3DTencentPlayerV3.2.37.400%26plugin%3D1.4.6%26speed%3D0%26vptag%3Dwww_google_com_hk%257Ctabs-columns%253Aimg%26pid%3D37B465BC9D870ACF5B84FF64DE1433F6%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D8835a0bcd1682993e594b8a1374442fc%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-11%2016:36:07%20980&bdua=0&admtype=0&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=6277'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&sRef=&sPageId=&sPos=&step=3&val=174&val1=1&val2=0&val3=&val4=&val5=&apid=FC998EF7366750B414B81AC7065DBE211B8B3A74&pid=37B465BC9D870ACF5B84FF64DE1433F6&vid=s0022ryp4k3&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54....6v%3DTencentPlayerV3.2.37.400%26plugin%3D1.4.6%26speed%3D0%26vptag%3Dwww_google_com_hk%257Ctabs-columns%253Aimg%26pid%3D37B465BC9D870ACF5B84FF64DE1433F6%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D8835a0bcd1682993e594b8a1374442fc%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-11%2016:36:07%20980&bdua=0&admtype=0&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=2844'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://14.29.117.24/vmind.qqvideo.tc.qq.com/a0200wrjkxq.p202.1.mp4?vkey=8B8EEF4C45D89841BDD6C6A191CC2A6DA6B03C2ECAA45045A5BA7358AD10BD9B4F81D4F7477CF081C3187A9D2AEADAF3B1D8A97793C6C0C4AE5E1781F0683394016ED14AFA67267CF36C003C5FE9E386305AC8D9F11E4660&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&sRef=&sPageId=&sPos=&step=6&val=291&val1=1&val2=4&val3=&val4=&val5=&apid=FC998EF7366750B414B81AC7065DBE211B8B3A74&pid=37B465BC9D870ACF5B84FF64DE1433F6&vid=s0022ryp4k3&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.117.24%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3D8B8EEF4C45D89841BDD6C6A191CC2A6DA6B03C2ECAA45045A5BA7358AD10BD9B4F81D4F7477CF081C3187A9D2AEADAF3B1D8A97793C6C0C4AE5E1781F0683394016ED14AFA67267CF36C003C5FE9E386305AC8D9F11E4660%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:36:08%20308&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=1&random=4335'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&sRef=&sPageId=&sPos=&step=6&val=291&val1=1&val2=4&val3=&val4=&val5=&apid=FC998EF7366750B414B81AC7065DBE211B8B3A74&pid=37B465BC9D870ACF5B84FF64DE1433F6&vid=s0022ryp4k3&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.117.24%2Fvmind.qqvideo.tc.qq.com%2Fa0200wrjkxq.p202.1.mp4%3Fvkey%3D8B8EEF4C45D89841BDD6C6A191CC2A6DA6B03C2ECAA45045A5BA7358AD10BD9B4F81D4F7477CF081C3187A9D2AEADAF3B1D8A97793C6C0C4AE5E1781F0683394016ED14AFA67267CF36C003C5FE9E386305AC8D9F11E4660%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-11%2016:36:08%20308&bdua=0&admtype=1&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=1&random=7893'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://sd.cn.miaozhen.com/m.gif?pid=2&tid=5311&m0=&m0a=[DUID]&m1=[ANDROIDID1]&m1a=&m2=&m4=__AAID__&m5=&m6=[MAC1]&m6a=&cid=17029901&o='. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://p.tencentmind.com/p?oid=PUB_3119969&soid=0E9831FA004D589ECCC1317150&soidip=14.152.49.250&loc=LV_6067_LDVi_LD&lkey=6067&OpenUDID=&MAC=&IDFA=&IP=14.152.49.250&IMEI=&AndroidID='. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://14.29.117.16/vmind.qqvideo.tc.qq.com/i020016ovtp.p202.1.mp4?vkey=8820307ED9C0FBA04FFBFDDB1E8FC83DAAA8C4D607013661D299CC46FE8FE966E0797FC1B061E7862D37E309C42D57C3F5C59C73F2436057D16A9BCEB91C6E91FA74625FBF4066C40094C977C7A289795FD7189431ED6C14&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure script 'http://static-alias-1.360buyimg.com/jzt/libs/behavior/v2/behavior.js'. This request has been blocked; the content must be served over HTTPS.
+Source: https://x.jd.com/exsites?spread_type=2&ad_ids=2239:5&location_info=0&adflag=1&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170104001108&expose=
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure image 'http://img1.360buyimg.com/da/jfs/t2176/38/116455295/2717/c576a8d2/55efcd1aN19509f1f.png'. This content should also be served over HTTPS.
+Source: https://x.jd.com/exsites?spread_type=2&ad_ids=2239:5&location_info=0&adflag=1&mobileType=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170104001108&expose=
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://14.29.86.12/vmind.qqvideo.tc.qq.com/z0200b3gpbe.p202.1.mp4?vkey=3C3589EBE3AE2D09AB2CCBAF9A7DAAA181B153C69EDA2DF6F0C29871B500E555D42D0724A7985A4106D64E48448CB3A966BB27ED6B91047CEA7956B04F67783C3B28FC4A9DDC40A610D5CB6C499C37D3715BC988BB2304BB&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/irh359djhd7xk5r.html' was loaded over HTTPS, but requested an insecure plugin data 'http://14.29.86.15/vmind.qqvideo.tc.qq.com/t0200gnq9pk.p202.1.mp4?vkey=A00113CE01A8276FC5DB42805E8F1E383750D0B4B9A0E52351FE2C26B677EDCB04BFFDD08E25933DAD17887C5E92F944C43484F023BDE6818647BD38711FC313083268AE9AA7BD003DE9D427CD95DE1B21C0BCBA7A366794&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/irh359djhd7xk5r.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure image 'http://rcgi.video.qq.com/web_report?cmd=3514&idx=1&refer=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html&_=1486802177152'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=&sRef=&sPageId=&sPos=&step=2001&val=web&val1=&val2=&val3=&val4=&val5=&apid=1.4.6&pid=1.4.6&vid=u0022o9fx5t&platform=3&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=&adtype=0&vurl=https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0&reporttime=&bdua=0&admtype=0&adid=4003&guid=&ispip=0&random=8792'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=&sRef=&sPageId=&sPos=&step=2001&val=web&val1=&val2=&val3=&val4=&val5=&apid=1.4.6&pid=1.4.6&vid=u0022o9fx5t&platform=3&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=&adtype=0&vurl=https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0&reporttime=&bdua=0&admtype=0&adid=4003&guid=&ispip=0&random=12'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%3Fstart%3D0&sRef=&sPageId=&sPos=&step=3&val=150&val1=1&val2=0&val3=&val4=&val5=&apid=4E8E511E318B87A0B6905C82F3C3352264146C79&pid=38DF1BDF5C0AC50CF773D3D95575A936&vid=u0022o9fx5t&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20...plugin%3D1.4.6%26speed%3D0%26vptag%3Dwww_google_com_hk%257Ctabs-columns%253Aimg%26pid%3D38DF1BDF5C0AC50CF773D3D95575A936%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3Db27598c153df83074a308fa8362de7d6%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html%26st%3D0&reporttime=2017-02-11%2016:36:18%20818&bdua=0&admtype=0&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=2304'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%3Fstart%3D0&sRef=&sPageId=&sPos=&step=3&val=150&val1=1&val2=0&val3=&val4=&val5=&apid=4E8E511E318B87A0B6905C82F3C3352264146C79&pid=38DF1BDF5C0AC50CF773D3D95575A936&vid=u0022o9fx5t&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20...plugin%3D1.4.6%26speed%3D0%26vptag%3Dwww_google_com_hk%257Ctabs-columns%253Aimg%26pid%3D38DF1BDF5C0AC50CF773D3D95575A936%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3Db27598c153df83074a308fa8362de7d6%26guid%3D8607AFC78DD518652B3B3B50588295C2%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft3kqd5i2rooqgqm.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firh359djhd7xk5r.html%26st%3D0&reporttime=2017-02-11%2016:36:18%20818&bdua=0&admtype=0&adid=4003&guid=8607AFC78DD518652B3B3B50588295C2&ispip=0&random=9328'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0' was loaded over HTTPS, but requested an insecure plugin data 'http://14.215.93.160/vmind.qqvideo.tc.qq.com/a0200wrjkxq.p202.1.mp4?vkey=EE86C8B828C6FCE20FDF97B75CD5BE6E76EF16572B2583C52DEBC69601859999EDECF9E7146B6A90110BE10CD2338B0FE051349F783AB0F71E5B15469F14F6D2D9B50E9CC26DBFF61A9F17140687A8B33D2B4D4946626BD8&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/t3kqd5i2rooqgqm.html?start=0
+Line: 0
+-----------------------
+Message: %c iiii        QQQQQQQQQ           iiii                               iiii
+i::::i     QQ:::::::::QQ        i::::i                             i::::i
+ iiii     QQ:::::::::::::QQ      iiii                               iiii
+         Q:::::::QQQ:::::::Q
+iiiiiii  Q::::::O   Q::::::Q   iiiiiii  yyyyyyy           yyyyyyy iiiiiii
+i:::::i  Q:::::O     Q:::::Q   i:::::i   y:::::y         y:::::y  i:::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i    y:::::y       y:::::y    i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i     y:::::y     y:::::y     i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i      y:::::y   y:::::y      i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i       y:::::y y:::::y       i::::i
+ i::::i  Q:::::O  QQQQ:::::Q    i::::i        y:::::y:::::y        i::::i
+ i::::i  Q::::::O Q::::::::Q    i::::i         y:::::::::y         i::::i
+i::::::i Q:::::::QQ::::::::Q   i::::::i         y:::::::y         i::::::i
+i::::::i  QQ::::::::::::::Q    i::::::i          y:::::y          i::::::i
+i::::::i    QQ:::::::::::Q     i::::::i         y:::::y           i::::::i
+iiiiiiii      QQQQQQQQ::::QQ   iiiiiiii        y:::::y            iiiiiiii
+                       Q:::::Q                y:::::y
+                        QQQQQQ               y:::::y
+                                            y:::::y
+                                           y:::::y
+Source: http://static.iqiyi.com/js/qiyiV2/20170209113801/jobs/pc/ugcIndex.js
+Line: 80
+-----------------------
+Message: %c一不小心被你发现了:-)
+什么都不说了,这里需要喜欢探寻秘密的你!
+爱奇艺直聘网址:http://zhaopin.iqiyi.com/
+Source: http://static.iqiyi.com/js/qiyiV2/20170209113801/jobs/pc/ugcIndex.js
+Line: 80
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://www.iqiyi.com/v_19rrar02pc.html
+Line: 2153
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://www.iqiyi.com/v_19rrar02pc.html
+Line: 2153
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://s8.qhres.com/static/ab77b6ea7f3fbf79.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://s8.qhres.com/static/ab77b6ea7f3fbf79.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c
+Line: 1
+-----------------------
+Message: %c iiii        QQQQQQQQQ           iiii                               iiii
+i::::i     QQ:::::::::QQ        i::::i                             i::::i
+ iiii     QQ:::::::::::::QQ      iiii                               iiii
+         Q:::::::QQQ:::::::Q
+iiiiiii  Q::::::O   Q::::::Q   iiiiiii  yyyyyyy           yyyyyyy iiiiiii
+i:::::i  Q:::::O     Q:::::Q   i:::::i   y:::::y         y:::::y  i:::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i    y:::::y       y:::::y    i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i     y:::::y     y:::::y     i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i      y:::::y   y:::::y      i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i       y:::::y y:::::y       i::::i
+ i::::i  Q:::::O  QQQQ:::::Q    i::::i        y:::::y:::::y        i::::i
+ i::::i  Q::::::O Q::::::::Q    i::::i         y:::::::::y         i::::i
+i::::::i Q:::::::QQ::::::::Q   i::::::i         y:::::::y         i::::::i
+i::::::i  QQ::::::::::::::Q    i::::::i          y:::::y          i::::::i
+i::::::i    QQ:::::::::::Q     i::::::i         y:::::y           i::::::i
+iiiiiiii      QQQQQQQQ::::QQ   iiiiiiii        y:::::y            iiiiiiii
+                       Q:::::Q                y:::::y
+                        QQQQQQ               y:::::y
+                                            y:::::y
+                                           y:::::y
+Source: http://static.iqiyi.com/js/qiyiV2/20170209113801/jobs/pc/ugcIndex.js
+Line: 80
+-----------------------
+Message: %c一不小心被你发现了:-)
+什么都不说了,这里需要喜欢探寻秘密的你!
+爱奇艺直聘网址:http://zhaopin.iqiyi.com/
+Source: http://static.iqiyi.com/js/qiyiV2/20170209113801/jobs/pc/ugcIndex.js
+Line: 80
+-----------------------
+Message: Uncaught SecurityError: Failed to set the 'domain' property on 'Document': 'pps.tv' is not a suffix of 'cls.lhcq.vspk.net'.
+Source: http://g.pps.tv/style/game_interface/pps_game_ct.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: https://www.baidu.com/
+Line: 706
+-----------------------
+Message: A Parser-blocking, cross-origin script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: https://www.baidu.com/
+Line: 706
+-----------------------
+Message: 一张网页，要经历怎样的过程，才能抵达用户面前？
+一位新人，要经历怎样的成长，才能站在技术之巅？
+探寻这里的秘密；
+体验这里的挑战；
+成为这里的主人；
+加入百度，加入网页搜索，你，可以影响世界。
+
+Source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js
+Line: 172
+-----------------------
+Message: 请将简历发送至 %c ps_recruiter@baidu.com（ 邮件标题请以“姓名-应聘XX职位-来自console”命名）
+Source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js
+Line: 172
+-----------------------
+Message: 职位介绍：http://dwz.cn/hr2013
+Source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js
+Line: 172
+-----------------------
+Message: %c
+一张网页，要经历怎样的过程，才能抵达用户面前？
+一位新人，要经历怎样的成长，才能站在技术之巅？
+探寻这里的秘密；
+体验这里的挑战；
+成为这里的主人；
+加入百度，加入百度新闻，你，可以影响世界。
+
+如果console前的你热爱前端技术，相信技术改变世界的力量，那么————
+Source: http://news.baidu.com/resource/js/news_zp_console.js
+Line: 23
+-----------------------
+Message: %c请将简历发送至以下邮箱：
+%o
+Source: http://news.baidu.com/resource/js/news_zp_console.js
+Line: 42
+-----------------------
+Message: %c邮件标题请以“姓名-应聘Web前端研发工程师-来自console”命名
+Source: http://news.baidu.com/resource/js/news_zp_console.js
+Line: 61
+-----------------------
+Message: %c职位介绍：%o
+Source: http://news.baidu.com/resource/js/news_zp_console.js
+Line: 70
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://h2.ifengimg.com/ifeng/sources/region_v1.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 2
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://h2.ifengimg.com/ifeng/sources/region_v1.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 2
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y0.ifengimg.com/d0169b18072caddd/2015/1015/yingguang-h5-20151015.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y0.ifengimg.com/d0169b18072caddd/2015/1015/yingguang-h5-20151015.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y1.ifengimg.com/8d182615793a9f4b/2015/0906/yingguang-20150905.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y1.ifengimg.com/8d182615793a9f4b/2015/0906/yingguang-20150905.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://images.sohu.com/cs/jsfile/js/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/iis/iis_v1_3.js
+Line: 210
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://images.sohu.com/cs/jsfile/js/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/iis/iis_v1_3.js
+Line: 210
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://inte.sogou.com/ask?id=466863&h=183&w=638&fv=21&if=16&sohuurl=http%3A%2F%2Fnews.ifeng.com%2Fa%2F20170211%2F50678432_0.shtml%3F_zbs_baidu_news&refer=http%3A%2F%2Fnews.baidu.com%2F&rnd=5d6b032f3dbb21c1&z=818b9b6c2a3bab11&lmt=1486802400&srp=1920,1080&ccd=24&lhi=1&eja=false&npl=3&nmi=4&ece=true&lan=en-US&bi=1&t1=12&t2=1486802400&pvt=1486802400042&ssi0=259&ti=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%BB%E5%87%BA%E7%9A%84%E6%9C%80%E7%BE%8E%E5%90%8C%E5%BF%83%E5%9C%86_%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&bs=923,607&cb=SOGOU_STAR_SETJSONADSLOT&fs=1&mi=0&tmp_cdif=0&bm=8&glx=0, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://images.sohu.com/cs/jsfile/js/c.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://inte.sogou.com/ask?id=466863&h=183&w=638&fv=21&if=16&sohuurl=http%3A%2F%2Fnews.ifeng.com%2Fa%2F20170211%2F50678432_0.shtml%3F_zbs_baidu_news&refer=http%3A%2F%2Fnews.baidu.com%2F&rnd=5d6b032f3dbb21c1&z=818b9b6c2a3bab11&lmt=1486802400&srp=1920,1080&ccd=24&lhi=1&eja=false&npl=3&nmi=4&ece=true&lan=en-US&bi=1&t1=12&t2=1486802400&pvt=1486802400042&ssi0=259&ti=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%BB%E5%87%BA%E7%9A%84%E6%9C%80%E7%BE%8E%E5%90%8C%E5%BF%83%E5%9C%86_%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&bs=923,607&cb=SOGOU_STAR_SETJSONADSLOT&fs=1&mi=0&tmp_cdif=0&bm=8&glx=0, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://images.sohu.com/cs/jsfile/js/c.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y2.ifengimg.com/8d182615793a9f4b/2015/0917/yingguang-20150917a.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y2.ifengimg.com/8d182615793a9f4b/2015/0917/yingguang-20150917a.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/iis/iis_v1_3.js
+Line: 210
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/iis/iis_v1_3.js
+Line: 210
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://m1.ifengimg.com/iis/iis_v1_3.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://m1.ifengimg.com/iis/iis_v1_3.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://ssp.idgtechnetwork.com.cn/jssdk/jssdk/jsRouter.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/iis/iis_v1_3.js
+Line: 210
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://ssp.idgtechnetwork.com.cn/jssdk/jssdk/jsRouter.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/iis/iis_v1_3.js
+Line: 210
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://m1.ifengimg.com/iis/iis_v1_3.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://m1.ifengimg.com/iis/iis_v1_3.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/iis/iis_v1_3.js
+Line: 210
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/iis/iis_v1_3.js
+Line: 210
+-----------------------
+Message: http://news.baidu.com/
+Source: http://static.idgtechnetwork.com.cn/static/pc/2a434b2a23aa4e3ebe8e8e004434780e/110.html?requestId=3f96dd59fc0f4444941cf71e52be7145&HWUID=57010795996420662941659597671543&isDd=0&ref=http%3A%2F%2Fnews.baidu.com%2F
+Line: 19
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://m1.ifengimg.com/iis/iis_v1_3.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://m1.ifengimg.com/iis/iis_v1_3.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y0.ifengimg.com/d0169b18072caddd/2015/1015/yingguang-h5-20151015.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y0.ifengimg.com/d0169b18072caddd/2015/1015/yingguang-h5-20151015.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y3.ifengimg.com/1d124ac5e89463af/2015/0203/iframe_load_20150203_v4.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y3.ifengimg.com/1d124ac5e89463af/2015/0203/iframe_load_20150203_v4.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://pos.baidu.com/gcim?di=2080896&dri=0&dis=0&dai=3&ps=2379x700&dcb=___adblockplus&dtm=SSP_JSONP&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1486802402577&ti=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%BB%E5%87%BA%E7%9A%84%E6%9C%80%E7%BE%8E%E5%90%8C%E5%BF%83%E5%9C%86_%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&ari=2&dbv=2&drs=1&pcs=923x607&pss=1000x9795&cfv=0&cpl=3&chi=1&cce=true&cec=UTF-8&tlm=1486802403&rw=624&ltu=http%3A%2F%2Fnews.ifeng.com%2Fa%2F20170211%2F50678432_0.shtml%3F_zbs_baidu_news&ltr=http%3A%2F%2Fnews.baidu.com%2F&lcr=http%3A%2F%2Fnews.baidu.com%2F&ecd=1&par=1920x1040&pis=-1x-1&ccd=24&cja=false&cmi=4&col=en-US&cdo=-1&sr=1920x1080&tcn=1486802404, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://pos.baidu.com/gcim?di=2080896&dri=0&dis=0&dai=3&ps=2379x700&dcb=___adblockplus&dtm=SSP_JSONP&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1486802402577&ti=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%BB%E5%87%BA%E7%9A%84%E6%9C%80%E7%BE%8E%E5%90%8C%E5%BF%83%E5%9C%86_%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&ari=2&dbv=2&drs=1&pcs=923x607&pss=1000x9795&cfv=0&cpl=3&chi=1&cce=true&cec=UTF-8&tlm=1486802403&rw=624&ltu=http%3A%2F%2Fnews.ifeng.com%2Fa%2F20170211%2F50678432_0.shtml%3F_zbs_baidu_news&ltr=http%3A%2F%2Fnews.baidu.com%2F&lcr=http%3A%2F%2Fnews.baidu.com%2F&ecd=1&par=1920x1040&pis=-1x-1&ccd=24&cja=false&cmi=4&col=en-US&cdo=-1&sr=1920x1080&tcn=1486802404, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://dup.baidustatic.com/js/os.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/iis/iis_v1_3.js
+Line: 210
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://dup.baidustatic.com/js/os.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://pos.baidu.com/gcim?di=2904660&dri=0&dis=0&dai=5&ps=2379x700&dcb=___adblockplus&dtm=SSP_JSONP&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1486802402577&ti=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%BB%E5%87%BA%E7%9A%84%E6%9C%80%E7%BE%8E%E5%90%8C%E5%BF%83%E5%9C%86_%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&ari=2&dbv=2&drs=1&pcs=923x607&pss=1000x9795&cfv=0&cpl=3&chi=1&cce=true&cec=UTF-8&tlm=1486802403&rw=624&ltu=http%3A%2F%2Fnews.ifeng.com%2Fa%2F20170211%2F50678432_0.shtml%3F_zbs_baidu_news&ltr=http%3A%2F%2Fnews.baidu.com%2F&lcr=http%3A%2F%2Fnews.baidu.com%2F&ecd=1&par=1920x1040&pis=-1x-1&ccd=24&cja=false&cmi=4&col=en-US&cdo=-1&sr=1920x1080&tcn=1486802404, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://pos.baidu.com/gcim?di=2904660&dri=0&dis=0&dai=5&ps=2379x700&dcb=___adblockplus&dtm=SSP_JSONP&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1486802402577&ti=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%BB%E5%87%BA%E7%9A%84%E6%9C%80%E7%BE%8E%E5%90%8C%E5%BF%83%E5%9C%86_%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&ari=2&dbv=2&drs=1&pcs=923x607&pss=1000x9795&cfv=0&cpl=3&chi=1&cce=true&cec=UTF-8&tlm=1486802403&rw=624&ltu=http%3A%2F%2Fnews.ifeng.com%2Fa%2F20170211%2F50678432_0.shtml%3F_zbs_baidu_news&ltr=http%3A%2F%2Fnews.baidu.com%2F&lcr=http%3A%2F%2Fnews.baidu.com%2F&ecd=1&par=1920x1040&pis=-1x-1&ccd=24&cja=false&cmi=4&col=en-US&cdo=-1&sr=1920x1080&tcn=1486802404, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://pos.baidu.com/gcim?di=2831858&dri=0&dis=0&dai=6&ps=2629x700&dcb=___adblockplus&dtm=SSP_JSONP&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1486802402577&ti=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%BB%E5%87%BA%E7%9A%84%E6%9C%80%E7%BE%8E%E5%90%8C%E5%BF%83%E5%9C%86_%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&ari=2&dbv=2&drs=1&pcs=923x607&pss=1000x9795&cfv=0&cpl=3&chi=1&cce=true&cec=UTF-8&tlm=1486802404&rw=624&ltu=http%3A%2F%2Fnews.ifeng.com%2Fa%2F20170211%2F50678432_0.shtml%3F_zbs_baidu_news&ltr=http%3A%2F%2Fnews.baidu.com%2F&lcr=http%3A%2F%2Fnews.baidu.com%2F&ecd=1&par=1920x1040&pis=-1x-1&ccd=24&cja=false&cmi=4&col=en-US&cdo=-1&sr=1920x1080&tcn=1486802404, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://pos.baidu.com/gcim?di=2831858&dri=0&dis=0&dai=6&ps=2629x700&dcb=___adblockplus&dtm=SSP_JSONP&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1486802402577&ti=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%BB%E5%87%BA%E7%9A%84%E6%9C%80%E7%BE%8E%E5%90%8C%E5%BF%83%E5%9C%86_%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&ari=2&dbv=2&drs=1&pcs=923x607&pss=1000x9795&cfv=0&cpl=3&chi=1&cce=true&cec=UTF-8&tlm=1486802404&rw=624&ltu=http%3A%2F%2Fnews.ifeng.com%2Fa%2F20170211%2F50678432_0.shtml%3F_zbs_baidu_news&ltr=http%3A%2F%2Fnews.baidu.com%2F&lcr=http%3A%2F%2Fnews.baidu.com%2F&ecd=1&par=1920x1040&pis=-1x-1&ccd=24&cja=false&cmi=4&col=en-US&cdo=-1&sr=1920x1080&tcn=1486802404, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://dup.baidustatic.com/js/os.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://dup.baidustatic.com/js/os.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://pos.baidu.com/gcim?di=2833392&dri=0&dis=0&dai=8&ps=2629x700&dcb=___adblockplus&dtm=SSP_JSONP&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1486802402577&ti=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%BB%E5%87%BA%E7%9A%84%E6%9C%80%E7%BE%8E%E5%90%8C%E5%BF%83%E5%9C%86_%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&ari=2&dbv=2&drs=1&pcs=923x607&pss=1000x9795&cfv=0&cpl=3&chi=1&cce=true&cec=UTF-8&tlm=1486802404&rw=624&ltu=http%3A%2F%2Fnews.ifeng.com%2Fa%2F20170211%2F50678432_0.shtml%3F_zbs_baidu_news&ltr=http%3A%2F%2Fnews.baidu.com%2F&lcr=http%3A%2F%2Fnews.baidu.com%2F&ecd=1&par=1920x1040&pis=-1x-1&ccd=24&cja=false&cmi=4&col=en-US&cdo=-1&sr=1920x1080&tcn=1486802404, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://pos.baidu.com/gcim?di=2833392&dri=0&dis=0&dai=8&ps=2629x700&dcb=___adblockplus&dtm=SSP_JSONP&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1486802402577&ti=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%BB%E5%87%BA%E7%9A%84%E6%9C%80%E7%BE%8E%E5%90%8C%E5%BF%83%E5%9C%86_%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&ari=2&dbv=2&drs=1&pcs=923x607&pss=1000x9795&cfv=0&cpl=3&chi=1&cce=true&cec=UTF-8&tlm=1486802404&rw=624&ltu=http%3A%2F%2Fnews.ifeng.com%2Fa%2F20170211%2F50678432_0.shtml%3F_zbs_baidu_news&ltr=http%3A%2F%2Fnews.baidu.com%2F&lcr=http%3A%2F%2Fnews.baidu.com%2F&ecd=1&par=1920x1040&pis=-1x-1&ccd=24&cja=false&cmi=4&col=en-US&cdo=-1&sr=1920x1080&tcn=1486802404, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://cpro.baidustatic.com/cpro/ui/c.js
+Line: 3
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y2.ifengimg.com/8d182615793a9f4b/2015/0917/yingguang-20150917a.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y2.ifengimg.com/8d182615793a9f4b/2015/0917/yingguang-20150917a.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/iis/iis_v1_3.js
+Line: 210
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://cpro.baidustatic.com/cpro/ui/c.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/iis/iis_v1_3.js
+Line: 210
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y1.ifengimg.com/neiqian/2015/09/14/embed.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://y1.ifengimg.com/neiqian/2015/09/14/embed.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://m1.ifengimg.com/ifeng/sources/inice_v1.js
+Line: 1
+-----------------------
+Message: Uncaught TypeError: Cannot read property 'length' of undefined
+Source: http://y0.ifengimg.com/commonpage/1218/recommend.pc.min.js
+Line: 1
+-----------------------
+Message: Uncaught ReferenceError: V is not defined
+Source: http://home.ifeng.com/special/tea32/
+Line: 128
+-----------------------
+Message: A Parser-blocking, cross-origin script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: https://www.baidu.com/
+Line: 706
+-----------------------
+Message: A Parser-blocking, cross-origin script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: https://www.baidu.com/
+Line: 706
+-----------------------
+Message: 一张网页，要经历怎样的过程，才能抵达用户面前？
+一位新人，要经历怎样的成长，才能站在技术之巅？
+探寻这里的秘密；
+体验这里的挑战；
+成为这里的主人；
+加入百度，加入网页搜索，你，可以影响世界。
+
+Source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js
+Line: 172
+-----------------------
+Message: 请将简历发送至 %c ps_recruiter@baidu.com（ 邮件标题请以“姓名-应聘XX职位-来自console”命名）
+Source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js
+Line: 172
+-----------------------
+Message: 职位介绍：http://dwz.cn/hr2013
+Source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js
+Line: 172
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://www.iqiyi.com/yinyue/20120919/5c688b84912a8198.html
+Line: 4678
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://www.iqiyi.com/yinyue/20120919/5c688b84912a8198.html
+Line: 4678
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://s6.qhres.com/static/ab77b6ea7f3fbf79.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://s6.qhres.com/static/ab77b6ea7f3fbf79.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c
+Line: 1
+-----------------------
+Message: %c iiii        QQQQQQQQQ           iiii                               iiii
+i::::i     QQ:::::::::QQ        i::::i                             i::::i
+ iiii     QQ:::::::::::::QQ      iiii                               iiii
+         Q:::::::QQQ:::::::Q
+iiiiiii  Q::::::O   Q::::::Q   iiiiiii  yyyyyyy           yyyyyyy iiiiiii
+i:::::i  Q:::::O     Q:::::Q   i:::::i   y:::::y         y:::::y  i:::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i    y:::::y       y:::::y    i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i     y:::::y     y:::::y     i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i      y:::::y   y:::::y      i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i       y:::::y y:::::y       i::::i
+ i::::i  Q:::::O  QQQQ:::::Q    i::::i        y:::::y:::::y        i::::i
+ i::::i  Q::::::O Q::::::::Q    i::::i         y:::::::::y         i::::i
+i::::::i Q:::::::QQ::::::::Q   i::::::i         y:::::::y         i::::::i
+i::::::i  QQ::::::::::::::Q    i::::::i          y:::::y          i::::::i
+i::::::i    QQ:::::::::::Q     i::::::i         y:::::y           i::::::i
+iiiiiiii      QQQQQQQQ::::QQ   iiiiiiii        y:::::y            iiiiiiii
+                       Q:::::Q                y:::::y
+                        QQQQQQ               y:::::y
+                                            y:::::y
+                                           y:::::y
+Source: http://static.iqiyi.com/js/qiyiV2/20170209161624/jobs/pc/playMovieVideo.js
+Line: 80
+-----------------------
+Message: %c一不小心被你发现了:-)
+什么都不说了,这里需要喜欢探寻秘密的你!
+爱奇艺直聘网址:http://zhaopin.iqiyi.com/
+Source: http://static.iqiyi.com/js/qiyiV2/20170209161624/jobs/pc/playMovieVideo.js
+Line: 80
+-----------------------
+Message: 建立连接
+Source: http://ui.xiyoucdn.com/qui.js?version=20170106105112
+Line: 2
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://www.iqiyi.com/yinyue/20120306/cc08d8c5e2a7edc5.html
+Line: 4678
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://www.iqiyi.com/yinyue/20120306/cc08d8c5e2a7edc5.html
+Line: 4678
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://s6.qhres.com/static/ab77b6ea7f3fbf79.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://s6.qhres.com/static/ab77b6ea7f3fbf79.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c
+Line: 1
+-----------------------
+Message: %c iiii        QQQQQQQQQ           iiii                               iiii
+i::::i     QQ:::::::::QQ        i::::i                             i::::i
+ iiii     QQ:::::::::::::QQ      iiii                               iiii
+         Q:::::::QQQ:::::::Q
+iiiiiii  Q::::::O   Q::::::Q   iiiiiii  yyyyyyy           yyyyyyy iiiiiii
+i:::::i  Q:::::O     Q:::::Q   i:::::i   y:::::y         y:::::y  i:::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i    y:::::y       y:::::y    i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i     y:::::y     y:::::y     i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i      y:::::y   y:::::y      i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i       y:::::y y:::::y       i::::i
+ i::::i  Q:::::O  QQQQ:::::Q    i::::i        y:::::y:::::y        i::::i
+ i::::i  Q::::::O Q::::::::Q    i::::i         y:::::::::y         i::::i
+i::::::i Q:::::::QQ::::::::Q   i::::::i         y:::::::y         i::::::i
+i::::::i  QQ::::::::::::::Q    i::::::i          y:::::y          i::::::i
+i::::::i    QQ:::::::::::Q     i::::::i         y:::::y           i::::::i
+iiiiiiii      QQQQQQQQ::::QQ   iiiiiiii        y:::::y            iiiiiiii
+                       Q:::::Q                y:::::y
+                        QQQQQQ               y:::::y
+                                            y:::::y
+                                           y:::::y
+Source: http://static.iqiyi.com/js/qiyiV2/20170209161624/jobs/pc/playMovieVideo.js
+Line: 80
+-----------------------
+Message: %c一不小心被你发现了:-)
+什么都不说了,这里需要喜欢探寻秘密的你!
+爱奇艺直聘网址:http://zhaopin.iqiyi.com/
+Source: http://static.iqiyi.com/js/qiyiV2/20170209161624/jobs/pc/playMovieVideo.js
+Line: 80
+-----------------------
+Message: A Parser-blocking, cross-origin script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: https://www.baidu.com/s?tn=baidu&rsv_idx=1&wd=%E5%B4%94%E7%A7%80%E8%8B%B1&rsv_cq=oh&rsv_dl=0_right_recom_21121&euri=9cd32683a6d4475491655e1108f71167
+Line: 3826
+-----------------------
+Message: A Parser-blocking, cross-origin script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: https://www.baidu.com/s?tn=baidu&rsv_idx=1&wd=%E5%B4%94%E7%A7%80%E8%8B%B1&rsv_cq=oh&rsv_dl=0_right_recom_21121&euri=9cd32683a6d4475491655e1108f71167
+Line: 3826
+-----------------------
+Message: 一张网页，要经历怎样的过程，才能抵达用户面前？
+一位新人，要经历怎样的成长，才能站在技术之巅？
+探寻这里的秘密；
+体验这里的挑战；
+成为这里的主人；
+加入百度，加入网页搜索，你，可以影响世界。
+
+Source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js
+Line: 172
+-----------------------
+Message: 请将简历发送至 %c ps_recruiter@baidu.com（ 邮件标题请以“姓名-应聘XX职位-来自console”命名）
+Source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js
+Line: 172
+-----------------------
+Message: 职位介绍：http://dwz.cn/hr2013
+Source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_240007d.js
+Line: 172
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://www.iqiyi.com/v_19rrhce044.html
+Line: 4678
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://www.iqiyi.com/v_19rrhce044.html
+Line: 4678
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://s6.qhres.com/static/ab77b6ea7f3fbf79.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://s6.qhres.com/static/ab77b6ea7f3fbf79.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c
+Line: 1
+-----------------------
+Message: %c iiii        QQQQQQQQQ           iiii                               iiii
+i::::i     QQ:::::::::QQ        i::::i                             i::::i
+ iiii     QQ:::::::::::::QQ      iiii                               iiii
+         Q:::::::QQQ:::::::Q
+iiiiiii  Q::::::O   Q::::::Q   iiiiiii  yyyyyyy           yyyyyyy iiiiiii
+i:::::i  Q:::::O     Q:::::Q   i:::::i   y:::::y         y:::::y  i:::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i    y:::::y       y:::::y    i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i     y:::::y     y:::::y     i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i      y:::::y   y:::::y      i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i       y:::::y y:::::y       i::::i
+ i::::i  Q:::::O  QQQQ:::::Q    i::::i        y:::::y:::::y        i::::i
+ i::::i  Q::::::O Q::::::::Q    i::::i         y:::::::::y         i::::i
+i::::::i Q:::::::QQ::::::::Q   i::::::i         y:::::::y         i::::::i
+i::::::i  QQ::::::::::::::Q    i::::::i          y:::::y          i::::::i
+i::::::i    QQ:::::::::::Q     i::::::i         y:::::y           i::::::i
+iiiiiiii      QQQQQQQQ::::QQ   iiiiiiii        y:::::y            iiiiiiii
+                       Q:::::Q                y:::::y
+                        QQQQQQ               y:::::y
+                                            y:::::y
+                                           y:::::y
+Source: http://static.iqiyi.com/js/qiyiV2/20170209161624/jobs/pc/playMovieVideo.js
+Line: 80
+-----------------------
+Message: %c一不小心被你发现了:-)
+什么都不说了,这里需要喜欢探寻秘密的你!
+爱奇艺直聘网址:http://zhaopin.iqiyi.com/
+Source: http://static.iqiyi.com/js/qiyiV2/20170209161624/jobs/pc/playMovieVideo.js
+Line: 80
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://www.iqiyi.com/v_19rrhcjgf4.html
+Line: 4678
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://www.iqiyi.com/v_19rrhcjgf4.html
+Line: 4678
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://s6.qhres.com/static/ab77b6ea7f3fbf79.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c
+Line: 1
+-----------------------
+Message: A Parser-blocking, cross-origin script, http://s6.qhres.com/static/ab77b6ea7f3fbf79.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity.
+Source: http://js.passport.qihucdn.com/11.0.1.js?fa1c7fce79127597cbed202ea98aec2c
+Line: 1
+-----------------------
+Message: %c iiii        QQQQQQQQQ           iiii                               iiii
+i::::i     QQ:::::::::QQ        i::::i                             i::::i
+ iiii     QQ:::::::::::::QQ      iiii                               iiii
+         Q:::::::QQQ:::::::Q
+iiiiiii  Q::::::O   Q::::::Q   iiiiiii  yyyyyyy           yyyyyyy iiiiiii
+i:::::i  Q:::::O     Q:::::Q   i:::::i   y:::::y         y:::::y  i:::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i    y:::::y       y:::::y    i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i     y:::::y     y:::::y     i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i      y:::::y   y:::::y      i::::i
+ i::::i  Q:::::O     Q:::::Q    i::::i       y:::::y y:::::y       i::::i
+ i::::i  Q:::::O  QQQQ:::::Q    i::::i        y:::::y:::::y        i::::i
+ i::::i  Q::::::O Q::::::::Q    i::::i         y:::::::::y         i::::i
+i::::::i Q:::::::QQ::::::::Q   i::::::i         y:::::::y         i::::::i
+i::::::i  QQ::::::::::::::Q    i::::::i          y:::::y          i::::::i
+i::::::i    QQ:::::::::::Q     i::::::i         y:::::y           i::::::i
+iiiiiiii      QQQQQQQQ::::QQ   iiiiiiii        y:::::y            iiiiiiii
+                       Q:::::Q                y:::::y
+                        QQQQQQ               y:::::y
+                                            y:::::y
+                                           y:::::y
+Source: http://static.iqiyi.com/js/qiyiV2/20170209161624/jobs/pc/playMovieVideo.js
+Line: 80
+-----------------------
+Message: %c一不小心被你发现了:-)
+什么都不说了,这里需要喜欢探寻秘密的你!
+爱奇艺直聘网址:http://zhaopin.iqiyi.com/
+Source: http://static.iqiyi.com/js/qiyiV2/20170209161624/jobs/pc/playMovieVideo.js
+Line: 80
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure image 'http://rcgi.video.qq.com/web_report?cmd=3514&idx=1&refer=https%3A%2F%2Fv.qq.com%2F&_=1486970631086'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure image 'http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/u/u8n9y5zjm606li9.jpg'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html
+Line: 3023
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure image 'http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/4/4zgmfy2uf8t0urq.jpg'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html
+Line: 3040
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=&sRef=&sPageId=&sPos=&step=2001&val=web&val1=&val2=&val3=&val4=&val5=&apid=1.4.6&pid=1.4.6&vid=l0022995mcr&platform=3&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=&adtype=0&vurl=https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html&reporttime=&bdua=0&admtype=0&adid=4010&guid=&ispip=0&random=3654'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=&sRef=&sPageId=&sPos=&step=2001&val=web&val1=&val2=&val3=&val4=&val5=&apid=1.4.6&pid=1.4.6&vid=l0022995mcr&platform=3&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=&adtype=0&vurl=https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html&reporttime=&bdua=0&admtype=0&adid=4010&guid=&ispip=0&random=7970'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fu8n9y5zjm606li9%2Fl0022995mcr.html&sRef=&sPageId=&sPos=&step=3&val=212&val1=1&val2=0&val3=&val4=&val5=&apid=2DB2EB57B9A0E75B939AE8C81B1D18B4892AB8B4&pid=62ABDA39BB6A660D4EF309CBF9F9B5D2&vid=l0022995mcr&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%...PlayerV3.2.37.400%26plugin%3D1.4.6%26speed%3D0%26vptag%3Dwww_baidu_com%257Cnew_vs_feature%253Aitem%26pid%3D62ABDA39BB6A660D4EF309CBF9F9B5D2%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D38f6d8df67aa6c35e9db4ed311087fbd%26guid%3D252A104F6D0F5B82954E4FAFC8281049%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fu8n9y5zjm606li9%2Fl0022995mcr.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-13%2015:23:55%20995&bdua=0&admtype=0&adid=4010&guid=252A104F6D0F5B82954E4FAFC8281049&ispip=0&random=469'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fu8n9y5zjm606li9%2Fl0022995mcr.html&sRef=&sPageId=&sPos=&step=3&val=212&val1=1&val2=0&val3=&val4=&val5=&apid=2DB2EB57B9A0E75B939AE8C81B1D18B4892AB8B4&pid=62ABDA39BB6A660D4EF309CBF9F9B5D2&vid=l0022995mcr&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=2&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%...layerV3.2.37.400%26plugin%3D1.4.6%26speed%3D0%26vptag%3Dwww_baidu_com%257Cnew_vs_feature%253Aitem%26pid%3D62ABDA39BB6A660D4EF309CBF9F9B5D2%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D38f6d8df67aa6c35e9db4ed311087fbd%26guid%3D252A104F6D0F5B82954E4FAFC8281049%26url%3Dhttps%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fu8n9y5zjm606li9%2Fl0022995mcr.html%26refer%3Dhttps%3A%2F%2Fv.qq.com%2F%26st%3D0&reporttime=2017-02-13%2015:23:55%20995&bdua=0&admtype=0&adid=4010&guid=252A104F6D0F5B82954E4FAFC8281049&ispip=0&random=2824'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure plugin data 'http://14.29.86.17/vmind.qqvideo.tc.qq.com/g02000vg8wp.p202.1.mp4?vkey=37EEE4DFA45F59CFE75ADE565A4BE8B1C49494586C6BDFEBD0C80138EA98206349B2203452380F3C78A1BDB7A1FACA57C98AC4D7CB98FDC777C08AE99B6822FCD39914EA5425CC331EAB3AC6775B5E3FD2D76000AA4C7F32&platform=&sdtfrom=&fmt=hd&level=0'. This content should also be served over HTTPS.
+Source: https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html
+Line: 0
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure plugin data 'http://btrace.video.qq.com/kvcollect?sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fu8n9y5zjm606li9%2Fl0022995mcr.html&sRef=&sPageId=&sPos=&step=6&val=525&val1=1&val2=4&val3=&val4=&val5=&apid=2DB2EB57B9A0E75B939AE8C81B1D18B4892AB8B4&pid=62ABDA39BB6A660D4EF309CBF9F9B5D2&vid=l0022995mcr&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.86.17%2Fvmind.qqvideo.tc.qq.com%2Fg02000vg8wp.p202.1.mp4%3Fvkey%3D37EEE4DFA45F59CFE75ADE565A4BE8B1C49494586C6BDFEBD0C80138EA98206349B2203452380F3C78A1BDB7A1FACA57C98AC4D7CB98FDC777C08AE99B6822FCD39914EA5425CC331EAB3AC6775B5E3FD2D76000AA4C7F32%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-13%2015:23:56%20558&bdua=0&admtype=1&adid=4010&guid=252A104F6D0F5B82954E4FAFC8281049&ispip=0&random=5045'. This content should also be served over HTTPS.
+Source: https://ra.gtimg.com/sc/vqq/crystal-min.js
+Line: 278
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure plugin data 'http://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fu8n9y5zjm606li9%2Fl0022995mcr.html&sRef=&sPageId=&sPos=&step=6&val=525&val1=1&val2=4&val3=&val4=&val5=&apid=2DB2EB57B9A0E75B939AE8C81B1D18B4892AB8B4&pid=62ABDA39BB6A660D4EF309CBF9F9B5D2&vid=l0022995mcr&platform=1&pversion=TencentPlayerV3.2.37.400&version=1.4.6&bi=0&bt=0&idx=0&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.59%20Safari%2F537.36&adtype=0&vurl=http%3A%2F%2F14.29.86.17%2Fvmind.qqvideo.tc.qq.com%2Fg02000vg8wp.p202.1.mp4%3Fvkey%3D37EEE4DFA45F59CFE75ADE565A4BE8B1C49494586C6BDFEBD0C80138EA98206349B2203452380F3C78A1BDB7A1FACA57C98AC4D7CB98FDC777C08AE99B6822FCD39914EA5425CC331EAB3AC6775B5E3FD2D76000AA4C7F32%26platform%3D%26sdtfrom%3D%26fmt%3Dhd%26level%3D0&reporttime=2017-02-13%2015:23:56%20558&bdua=0&admtype=1&adid=4010&guid=252A104F6D0F5B82954E4FAFC8281049&ispip=0&random=4896'. This content should also be served over HTTPS.
+Source: https://ra.gtimg.com/sc/vqq/crystal-min.js
+Line: 278
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure plugin data 'http://t.l.qq.com/?t=s&actid=10250&locid=4010&oid=3150587'. This content should also be served over HTTPS.
+Source: https://ra.gtimg.com/sc/vqq/crystal-min.js
+Line: 278
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure plugin data 'http://sd.cn.miaozhen.com/m.gif?pid=2&tid=5311&m0=&m0a=[DUID]&m1=[ANDROIDID1]&m1a=&m2=&m4=__AAID__&m5=&m6=[MAC1]&m6a=&cid=17029901&o='. This content should also be served over HTTPS.
+Source: https://ra.gtimg.com/sc/vqq/crystal-min.js
+Line: 278
+-----------------------
+Message: Mixed Content: The page at 'https://v.qq.com/x/cover/u8n9y5zjm606li9/l0022995mcr.html' was loaded over HTTPS, but requested an insecure plugin data 'http://p.tencentmind.com/p?oid=PUB_3150587&soid=0E9831FA003258A15ED1992919&soidip=14.152.49.250&loc=LV_1023_LDVi_LD1&lkey=1023&OpenUDID=&MAC=&IDFA=&IP=14.152.49.250&IMEI=&AndroidID='. This content should also be served over HTTPS.
+Source: https://ra.gtimg.com/sc/vqq/crystal-min.js
+Line: 278
+-----------------------

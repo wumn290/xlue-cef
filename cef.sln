@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cefclient", "cefclient\cefclient.vcproj", "{6CA1A37E-9B09-3144-A884-9D62FF398FB9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7D97ACC0-6208-33D1-AB07-1408A4FD569A} = {7D97ACC0-6208-33D1-AB07-1408A4FD569A}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libcef_dll_wrapper", "libcef_dll\libcef_dll_wrapper.vcproj", "{7D97ACC0-6208-33D1-AB07-1408A4FD569A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloBolt6", "HelloBolt6\HelloBolt6.vcproj", "{D4AA6552-7ED2-4ACA-B57C-D9AC260E60AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CA1A37E-9B09-3144-A884-9D62FF398FB9}.Release|Win32.ActiveCfg = Release|Win32
+		{6CA1A37E-9B09-3144-A884-9D62FF398FB9}.Release|Win32.Build.0 = Release|Win32
+		{7D97ACC0-6208-33D1-AB07-1408A4FD569A}.Release|Win32.ActiveCfg = Release|Win32
+		{7D97ACC0-6208-33D1-AB07-1408A4FD569A}.Release|Win32.Build.0 = Release|Win32
+		{D4AA6552-7ED2-4ACA-B57C-D9AC260E60AA}.Release|Win32.ActiveCfg = Release|Win32
+		{D4AA6552-7ED2-4ACA-B57C-D9AC260E60AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
